@@ -1,0 +1,17 @@
+{
+    "name": "hpprobook650g4/scratch",
+    "autoload": {
+        "psr-4": {
+            "Hpprobook650g4\\Scratch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boh Dzomo"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
