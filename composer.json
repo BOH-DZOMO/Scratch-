@@ -2,7 +2,8 @@
     "name": "hpprobook650g4/scratch",
     "autoload": {
         "psr-4": {
-            "Hpprobook650g4\\Scratch\\": "src/"
+            "Hpprobook650g4\\Scratch\\": "src/",
+            "App\\": "src/"
         }
     },
     "authors": [
